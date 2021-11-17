@@ -2,7 +2,7 @@ We build the proposed approach on the successful Mask R-CNN, which is pretrained
 It can be directly used for region-based instance segmentation network.
 
 
-#iSAID-Reduce100 dataset:
+# iSAID-Reduce100 dataset:
 
 The iSAID-Reduce100 dataset is a reduced version of the iSAID dataset for instance segmentation on remote sensing imagery. 
 The dataset is composed of a training set and validation set. For each category, there are 100 training images and ~100 validation images.
