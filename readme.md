@@ -1,6 +1,6 @@
 # Instance segmentation in VHR remote sensing imagery based on hard-to-segment instance learning and boundary shape analysis
 We build the proposed approach on the successful Mask R-CNN, which is pretrained on the MS COCO dataset. The code is implemented as in \cite{matterport_maskrcnn_2017}.  
-It can be directly used for region-based instance segmentation network.
+
 
 
 # iSAID-Reduce100 dataset:
