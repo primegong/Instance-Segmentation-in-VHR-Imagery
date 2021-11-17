@@ -3,6 +3,7 @@ We build the proposed approach on the successful Mask R-CNN, which is pretrained
 
 
 iSAID-Reduce100 dataset:
+
 The iSAID-Reduce100 dataset is a reduced version of the iSAID dataset for instance segmentation on remote sensing imagery. 
 The dataset is composed of a training set and validation set. For each category, there are 100 training images and ~100 validation images.
 The pixel size of the image is 512.
@@ -14,6 +15,8 @@ For each image, there is an associated label image and yaml file, recoding the i
 It can be directly used for region-based instance segmentation network, such as Mask R-CNN. 
 Unzip the .rar file and put it where you want. Then you can start training models with this dataset immediately.
 
+链接：https://pan.baidu.com/s/1rIhvJpmT9-KQV5OUOiIg6Q 
+提取码：7bnz
 
 @misc{matterport_maskrcnn_2017,
   title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
